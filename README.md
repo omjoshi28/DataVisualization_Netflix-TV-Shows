@@ -129,20 +129,8 @@ seaborn>=0.12.0
 plotly>=5.11.0
 wordcloud>=1.9.0
 jupyter>=1.0.0
-```
 
 ---
-
-## 📸 Sample Visualizations
-
-### Content Growth Over Time
-![Content Growth](CHARTS\content_growth.png)
-
-### Genre vs Rating Heatmap
-![Heatmap](CHARTS\genre_rating_heatmap.png)
-
-### Word Cloud — Netflix Titles
-![Word Cloud](CHARTS\wordcloud.png)
 
 ---
 
