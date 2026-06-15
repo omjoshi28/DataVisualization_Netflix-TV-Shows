@@ -136,22 +136,21 @@ jupyter>=1.0.0
 ## 📸 Sample Visualizations
 
 ### Content Growth Over Time
-![Content Growth](CHARTS/content_growth.png)
+![Content Growth](CHARTS\content_growth.png)
 
 ### Genre vs Rating Heatmap
-![Heatmap](CHARTS/genre_rating_heatmap.png)
+![Heatmap](CHARTS\genre_rating_heatmap.png)
 
 ### Word Cloud — Netflix Titles
-![Word Cloud](CHARTS/wordcloud.png)
+![Word Cloud](CHARTS\wordcloud.png)
 
 ---
 
-## 👤 Author
+## 👤 Build By-
 
 **Om Joshi**
 - 🔗 LinkedIn: [https://linkedin.com/in/om-joshi028/]
 - 💻 GitHub: [https://github.com/omjoshi28/DataVisualization_Netflix-TV-Shows]
-- 💻 GitHub: [https://github.com/omjoshi28]
 - 📧 Email: omjoshi2807@gmail.com
 
 ---
