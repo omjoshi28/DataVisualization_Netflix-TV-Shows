@@ -132,9 +132,8 @@ jupyter>=1.0.0
 
 ---
 
-## 👤 Build By-
+## 👤 Build By - **Om Joshi**
 
-**Om Joshi**
 - 🔗 LinkedIn: [https://linkedin.com/in/om-joshi028/]
 - 💻 GitHub: [https://github.com/omjoshi28/DataVisualization_Netflix-TV-Shows]
 - 📧 Email: omjoshi2807@gmail.com
